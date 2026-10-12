@@ -1,0 +1,26 @@
+# Khaacho
+
+Khaacho builds revenue intelligence tools for wholesale and industrial distributors.
+
+## Primary product
+Revenue Leak Finder helps distributors analyze historical sales data to identify:
+- missed reorders
+- declining or at-risk customer accounts
+- cross-sell opportunities
+- overdue receivables requiring attention
+
+It is designed to work from existing CSV or Excel exports and does not require replacing an ERP or CRM for an initial audit.
+
+## Initial offer
+Revenue Leak Audit: USD 500 one-time validation engagement.
+
+## Intended users
+Wholesale and industrial distributors with repeat B2B purchasing and sales teams, including industrial/MRO, electrical, HVAC, janitorial, foodservice, automotive-parts and building-material distributors.
+
+## Important URLs
+Homepage: https://khaacho.com/
+Live product demo: https://ai.studio/apps/56195ac5-d39a-44a6-a2cf-42fe81722b24
+Contact: mailto:khaaaacho@gmail.com
+
+## Claims and limitations
+Opportunity values for reorders, account risk and cross-sell are modeled estimates based on historical data and are not guaranteed revenue. Outstanding receivables are treated separately from potential new revenue.
